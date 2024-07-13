@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "841354537663",
+    "firebase_url": "https://felport-default-rtdb.firebaseio.com",
+    "project_id": "felport",
+    "storage_bucket": "felport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841354537663:android:7586cca1cf15e934a6340a",
+        "android_client_info": {
+          "package_name": "com.example.felport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_TOUV7QSJ2uWUnsJqmCuBBi6RYcSW_yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
